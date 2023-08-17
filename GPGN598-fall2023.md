@@ -138,7 +138,7 @@ Colorado School of Mines affirms the principle that all individuals associated w
 
 ### 🤖 Generative Artificial Intelligence:
 
-The Office of the Provost encourages the entire University community to explore the uses and impacts of GenAI technologies, whether through critical discussions or creative applications. Based on a review of the most recent [Guidelines for Using Generative Artificial Intelligence at Colorado School of Mines](https://www.mines.edu/academic-affairs/genai), the GenAI policy for this course will be: 
+The Office of the Provost encourages the entire University community to explore the uses and impacts of GenAI technologies, whether through critical discussions or creative applications. Based on a review of the most recent [Guidelines for Using Generative Artificial Intelligence at Colorado School of Mines](https://www.mines.edu/academic-affairs/genai), the GenAI policy for this course will be *adapted* from the campus **general permission** as follows:
 
 Generative Artificial Intelligence (genAI) tools such as ChatGPT are important resources in many fields and industries. Because these tools will be used in professional and personal contexts, I believe it is valuable for you to engage critically with these tools and explore their use in generating content that helps your learning.
 
