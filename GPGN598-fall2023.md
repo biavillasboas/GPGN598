@@ -6,11 +6,11 @@
 **Course Number:** GPGN498/GPGN598  
 **Term:** Fall 2023  
 **Credits:** 3  
-**Course Location:** Geomaker Space (GC 255)  
+**Course Location:** Geomaker Space (Green Center 228)  
 **Course Times:** M/W 1:00–2:15 pm  
 **Professor:** Bia Villas Boas (she/her). My last name is "Villas Boas" (not "Boas"), but I prefer that you call me by my first name (pronounced bee-a).    
 **Email:** villasboas@mines.edu   
-**Office Hours:** TBD or by appointment    
+**Office Hours:** TBD or by [appointment](https://outlook.office.com/bookwithme/user/12dfdf8a370d4da38883619eb1ea9ff0@mines.edu/meetingtype/JUmkbWPPbkixcrTpaJnWBg2?anonymous&ep=mCardFromTile)    
 
 
 **Teaching Assistant:** Daniel Philippus    
