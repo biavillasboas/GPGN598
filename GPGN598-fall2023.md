@@ -41,9 +41,9 @@ You may find the course schedule below. Please keep in mind that this is a **ten
 | Week 1  | Class intro                          | Physical Properties of Seawater I & Density Lab             | 🧪 LAB01             |                             |
 | Week 2  | Physical Properties of Seawater I    | Tracer budget                                               | 📝 PS01              | 🧪 LAB01 (Fri)              |
 | Week 3  | Labor Day                            | The atmospheric interface                                   |                      |                             |
-| Week 4  | Force balances & Rotation lab        | Rotation                                                    | 🧪  LAB02            | 📝  PS01 (Wed)              |
-| Week 5  | Geostrophy                           | Thermal wind & Thermal wind lab                             | 📝  PS02 \|🧪  LAB03 |                             |
-| Week 6  | Guest Lecture: Observing the ocean   | Guest Lecture: Atmospheric circulation and air-sea coupling |                      | 🧪 LAB02 (Fri)              |
+| Week 4  | Force balances & Rotation lab        | Rotation                                                    | 🧪  LAB02            |                             |  
+| Week 5  | Geostrophy                           | Thermal wind & Thermal wind lab                             | 📝  PS02 \|🧪  LAB03 | 📝  PS01 (Wed)\|🧪 LAB02 (Fri)           |
+| Week 6  | Guest Lecture: Observing the ocean   | Guest Lecture: Atmospheric circulation and air-sea coupling |                      |               |
 | Week 7  | Ekman Balance                        | Ekman pumping/suction                                       |                      | 📝  PS02 (Wed)              |
 | Week 8  | Vorticity & Taylor-Proudman Lab      | Sverdrup balance & subtropical gyres                        | 📝  PS03\|🧪  LAB03  | 📈  Final project I (Mon)   |
 | Week 9  | ⛷️ Fall Break (no class)             | Western Intensification                                     |                      | 🧪 LAB03 (Fri)              |
