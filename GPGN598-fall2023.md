@@ -42,16 +42,16 @@ You may find the course schedule below. Please keep in mind that this is a **ten
 | Week 2  | Physical Properties of Seawater I    | Tracer budget                                               | 📝 PS01              | 🧪 LAB01 (Fri)              |
 | Week 3  | Labor Day                            | The atmospheric interface                                   |                      |                             |
 | Week 4  | Force balances & Rotation lab        | Rotation                                                    | 🧪  LAB02            |                             |  
-| Week 5  | Geostrophy                           | Thermal wind & Thermal wind lab                             | 📝  PS02 \|🧪  LAB03 | 📝  PS01 (Wed)\|🧪 LAB02 (Fri)           |
-| Week 6  | Guest Lecture: Observing the ocean   | Guest Lecture: Atmospheric circulation and air-sea coupling |                      |               |
-| Week 7  | Ekman Balance                        | Ekman pumping/suction                                       |                      | 📝  PS02 (Wed)              |
-| Week 8  | Vorticity & Taylor-Proudman Lab      | Sverdrup balance & subtropical gyres                        | 📝  PS03\|🧪  LAB03  | 📈  Final project I (Mon)   |
-| Week 9  | ⛷️ Fall Break (no class)             | Western Intensification                                     |                      | 🧪 LAB03 (Fri)              |
-| Week 10 | Abyssal circulation I & Buoyancy lab | Abyssal circulation II                                      | 🧪  LAB04            | 📝  PS03 (Wed)              |
-| Week 11 | Guest lecture: The Southern Ocean    | Surface Waves I                                             | 📝  PS04             | 🧪 LAB04 (Fri)              |
-| Week 12 | Surface Waves II                     | Guest Lecture: Carbon                                       |                      |                             |
-| Week 13 | Tides                                | The tropics                                                 |                      | 📝  PS04 (Wed)              |
-| Week 14 | Special topics                       | 🦃 Thanks Giving (no class)                                 |                      | 📈  Final project II (Mon)  |
+| Week 5  | Geostrophy                           | Thermal wind & Thermal wind lab                             |                      | 📝 PS01 (Wed)\|🧪LAB02 (Fri)|
+| Week 6  | Guest Lecture: Observing the ocean   | Guest Lecture: Atmospheric circulation and air-sea coupling |                      |                             |
+| Week 7  | Class Cancelled                      | Ekman Balance                                               | 📝  PS02 (Mon)       |                             |
+| Week 8  | Ekman pumping/suction 		 | Vorticity & Taylor-Proudman Lab	                       | 🧪  LAB03  	      | 📈  Final project I (Fri)   |
+| Week 9  | ⛷️ Fall Break (no class)             | Sverdrup balance & subtropical gyres                        | 📝  PS03 (Wed)       | 📝 PS02 (Mon)\|🧪LAB03 (Fri)|
+| Week 10 | Western Intensification 		 | Wind-driven circulation review                              |             	      |                             |
+| Week 11 | Abyssal circulation    		 |Abyssal circulation    II                                    | 		      | 📝  PS03 (Wed)              |
+| Week 12 | Guest Lecture: Southern Ocean        | Guest Lecture: Carbon                                       |📝  PS04 (Wed)        |                             |
+| Week 13 | Waves across the pacific             | Surface waves II                                            |                      |                             |
+| Week 14 | Special topics                       | 🦃 Thanks Giving (no class)                                 |                      | 📈  Final project II (Mon)\|📝  PS04 (Mon)|
 | Week 15 | Climate change and sea level rise    | Final project work day                                      |                      |                             |
 | Week 16 | Oceanography Fair                    | Class Wrap up                                               |                      | 📈  Final project III (Wed) |
 
